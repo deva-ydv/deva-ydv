@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deva-ydv
-- 👀 I’m interested in Frontend development
+- 👀 I’m interested in Frontend development (html/css done)
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate for Internship
 - 📫 How to reach me devabhai326@gmail.com  /  devaydv18@gmail.com
