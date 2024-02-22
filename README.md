@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Devanand Yadav
-- 👀 I’m interested in Frontend development / SKILLS- HTML5, CSS3, Tailwindcss.
-- 🌱 I’m currently learning JavaScript / React.js
-- 💞️ I’m looking for Internship
 - 📫 How to reach me devay7288@gmail.com  /  devaydv18@gmail.com
 - 
 
