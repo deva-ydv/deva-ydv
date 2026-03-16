@@ -3,12 +3,7 @@
 Backend Developer focused on building scalable APIs.
 
 ## Tech Stack
-- Node.js
-- Express.js
-- MongoDB
-- Docker
-- AWS EC2
-- Javascript
+- Node.js | Express.js | MongoDB | Docker | AWS EC2 
 
 ## Projects
 
