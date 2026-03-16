@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Deva Yadav 👋
 
-<!--
-**deva-ydv/deva-ydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building scalable APIs.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- Docker
+- AWS EC2
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Ledger Based Transaction System
+Backend system implementing ACID transactions and double-entry accounting.
+
+### Books API
+REST API with authentication, file uploads (Multer), and Cloudinary integration.
+
+### MyBlogs
+Full stack blogging platform.
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/deva-yadav/
