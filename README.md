@@ -1,6 +1,6 @@
 # Hi, I'm Deva Yadav 👋 https://www.devadeveloper.in/
 
-Backend Developer | Scalable APIs | DevOps & Deployment
+Backend Developer at Stew Digital Solutions | Scalable APIs | DevOps & Deployment
 
 ## Tech Stack
 - Node.js | Express.js | MongoDB | Docker | CI CD | AWS EC2 
