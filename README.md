@@ -1,9 +1,9 @@
 # Hi, I'm Deva Yadav 👋 https://www.devadeveloper.in/
 
-Backend Developer at Stew Digital Solutions | Scalable APIs | DevOps & Deployment
+Software Developer at Itarsia India Limited 
 
 ## Tech Stack
-- Node.js | Express.js | MongoDB | Docker | CI CD | AWS EC2 
+Full-Stack Developer
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/deva-yadav/
