@@ -1,6 +1,6 @@
 # Hi, I'm Deva Yadav 👋 https://www.devadeveloper.in/
 
-Software Developer at Itarsia India Limited 
+Software Developer at Stew Digital Solutions
 
 ## Tech Stack
 Full-Stack Developer
