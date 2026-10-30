@@ -61,7 +61,7 @@
 
 ## 📂 Recent Projects
 
-### 🍱 TiffinBox: Tiffin Subscription Backend
+### 🍱 TiffinBox: Tiffin Subscription 
 Meal subscription API with role-based access (Customer/Admin), daily order generation via cron with idempotency, and request validation.
 **Stack:** Express, TypeScript, Prisma, PostgreSQL, Zod, Winston, node-cron
 🔗 [View Repository](https://github.com/deva-ydv/TiffinBox-Delivery)
