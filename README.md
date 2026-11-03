@@ -15,10 +15,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Completed **MCA (2024–2026)** from TIMSCDR, Thakur College
-- 💼 Backend Developer Intern at **Stew Digital Solutions**, Navi Mumbai
-- 🚀 Frontend Developer Intern at **Itarsia India Limited** (June 2026)
+- 💼 Backend Developer Intern at **Stew Digital Solutions**, Mumbai
+- 🚀 Frontend Developer Intern at **Itarsia India Limited**, Mumbai
 - 📍 Based in Malad (East), Mumbai
-- 🔍 Open to **Backend Developer** roles
+- 🔍 Open to **Full-Stack Developer** roles
 
 ---
 
