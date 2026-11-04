@@ -72,4 +72,4 @@ Meal subscription API with role-based access (Customer/Admin), daily order gener
 
 ## 📫 Let's Connect
 yadav.deva.tech@gmail.com
-I'm actively looking for backend opportunities. Feel free to reach out for collaborations.
+I'm actively looking for opportunities. Feel free to reach out for collaborations.
